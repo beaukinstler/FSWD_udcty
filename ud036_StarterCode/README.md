@@ -14,45 +14,36 @@ Getting Started
 
 Some of this will be compatible with both python 2.7 and 3.2, but the course is designed for 2.7. If you're trying some of this code, and it's not working, make sure you're using 2.7
 
-
 Known Issues
 ------------
-
-
 
 Documentation and Support
 -------------------------
 
 Usage
 -----
-1. Edit the "entertainment_center" file. The movies need to be changed in the `make_list_of_movies()` function. 
-2. Create a Movie() object for each movie.
-3. Add the movie instance to the `movies_list` array, if you want to show up on the web page.
-4. run the entertainment_center.py file. `python entertainment_center.py`
 
-
+1. Edit the "entertainment_center" file. The movies need to be changed in the `make_list_of_movies()` function.
+1. Create a Movie() object for each movie.
+1. Add the movie instance to the `movies_list` array, if you want to show up on the web page.
+1. run the entertainment_center.py file. `python entertainment_center.py`
 
 Issues
 ------
 
-
-
-
-
 Contributing
 ------------
-This is a demo project and will not be actively maintained. You're tallents will be far more useful elseware.
 
+This is a demo project and will not be actively maintained. You're tallents will be far more useful elseware.
 
 Credits
 -------
+
 Beau Kinstler - Developer
 
 Udacity and all it's contributers
 
-
 License
 -------
-[MIT License](https://opensource.org/licenses/mit-license)
 
-http://www.opensource.org/licenses/mit-license
+[MIT License](https://opensource.org/licenses/mit-license)
