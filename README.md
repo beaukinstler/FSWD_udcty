@@ -1,7 +1,10 @@
 Repo for udacity Full Web Stack Nanodegree
 ================
 
-This repo is for storing and tracking scripts, miniprojects, and nanodegree projects for my nanodegree
+This repo is for storing and tracking scripts, miniprojects, and nanodegree projects for my nanodegree. See sub folders for more.
+* misc
+  * test scripts, small demos, exercises
+  * ud036_StarterCode: Project 1 for the FSWD nanodegree
 ------------
 
 What you need
@@ -12,42 +15,25 @@ Some of this will be compatible with both python 2.7 and 3.2, but the course is 
 Known Issues
 ------------
 
-
-
-
-
-Getting Started
----------------
-This application statically stores a list of Movie() objects, and using attributes like youtube_trailer, and poster_art, generate a static web page to display them.  It relies on a fork of Udacity's 'fresh_tomatoes.py' module.  The orginal source of this can be found [here](https://github.com/udacity/ud036_StarterCode)
-
-
 Documentation and Support
 -------------------------
 
 Usage
 -----
-TODO: add usage details
-
-
+See individual sub folders - this is a group of projects
 
 Issues
 ------
 
-
-
-
-
 Contributing
 ------------
 This is a demo project and will not be actively maintained. You're tallents will be far more useful elseware.
-
 
 Credits
 -------
 Beau Kinstler - Developer
 
 Udacity and all it's contributers
-
 
 License
 -------
