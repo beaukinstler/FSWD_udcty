@@ -4,7 +4,7 @@ Repo for udacity Full Web Stack Nanodegree
 This repo is for storing and tracking scripts, miniprojects, and nanodegree projects for my nanodegree. See sub folders for more.
 * misc
   * test scripts, small demos, exercises
-  * ud036_StarterCode: Project 1 for the FSWD nanodegree
+* ud036_StarterCode: Project 1 for the FSWD nanodegree
 ------------
 
 What you need
